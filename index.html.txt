@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>DriveGrip</title>
+</head>
+<body style="background:black;color:white;text-align:center;padding:40px;font-family:Arial;">
+
+<h1 style="color:red;">DriveGrip</h1>
+<h2>Uchwyt do telefonu do auta</h2>
+<p>Telefon zawsze tam gdzie trzeba.</p>
+
+<button>Kup teraz</button>
+
+</body>
+</html>
